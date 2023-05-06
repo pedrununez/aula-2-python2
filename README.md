@@ -1,4 +1,4 @@
-# aula-2-python2
+# Definir numero impar ou par
 Aprendi a definir se o numero é impar ou par
 # 2 Solicite ao usuário que insira um número e determine se é positivo, negativo ou zero
     numero = int(input("insira primeiro numero\n"))
